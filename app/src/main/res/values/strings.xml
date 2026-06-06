@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alert</string>
+    <string name="app_description">Environmental Alert System</string>
+    <string name="notification_channel_general">General Alerts</string>
+    <string name="notification_channel_warning">Warning Alerts</string>
+    <string name="notification_channel_danger">Danger Alerts</string>
+    <string name="notification_channel_monitoring">Background Monitoring</string>
+    <string name="city_default">Kushinagar</string>
+</resources>
